@@ -179,4 +179,15 @@
 .happy{
     max-width: 200px;
     text-align: left;
+    line-height: 0;
+}
+.happy-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.happy-description{
+    font-size: 20px;
+    color: #070211;
+    line-height: 25px;
 }
